@@ -1,11 +1,9 @@
-﻿# Karma-कर्म|
-
-<h3 style=”color:green”>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ २-४७"</h3>
+﻿# Image Processing
 
 
 
 <div align="center" style="margin: 20px">
-  <img src="https://github.com/rishabh-bansal/Data-Structures/raw/master/image.jpg">
+  <img src="https://www.utia.cas.cz/files/ZoiLogo.png">
 </div>
 
 ### <p>Implentation of some Basic Programs of C++ in my Placement Preparation Programme P<sup>3</sup></p>
