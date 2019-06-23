@@ -1,5 +1,5 @@
 <div align="center" style="margin: 20px">
-  <img src="https://www.utia.cas.cz/files/ZoiLogo.png" height="120" width="700">
+  <img src="https://www.utia.cas.cz/files/ZoiLogo.png" height="120" width="600">
 </div>
 
 ### <p>Implentation of some Basic Programs of matlab and python </p>
