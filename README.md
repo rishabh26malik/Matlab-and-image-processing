@@ -9,3 +9,10 @@
 ```
 ├──Flags
    ├──Implementation of national flags   
+
+```
+```
+├──Other Designs
+   ├──Implementation various designs and patterns in matlab
+   
+```
