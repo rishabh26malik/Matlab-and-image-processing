@@ -9,10 +9,18 @@
 ```
 ├──Flags
    ├──Implementation of national flags   
-
 ```
 ```
 ├──Other Designs
    ├──Implementation various designs and patterns in matlab
-   
+```
+
+### Feature Descriptors
+Implementation of feature extraction in python using buils in standard feature descriptors like HOG, humoments and
+zernike.
+```
+├──Standard feature descriptors in python
+   ├──HOG
+   ├──humoments
+   ├──Zernike
 ```
