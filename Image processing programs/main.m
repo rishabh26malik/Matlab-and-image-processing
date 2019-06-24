@@ -1,0 +1,3 @@
+video2frames('./walk\shahar_walk.avi');% converts video to frames in a sub-folder with the name of the video in the folder containing the video
+motion_history_images('./walk\shahar_walk_frames\');% creates motion history images for the frames in the given folder in a sub-folder titled mih
+background_subtraction('./walk\shahar_walk_frames\');% creates background subtracted frames for the frames in the given folder in a sub-folder titled bs
