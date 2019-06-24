@@ -24,3 +24,24 @@ zernike.
    ├──humoments
    ├──Zernike
 ```
+### Image processing programs
+```
+├── Image processing programs
+   ├── background_subtraction
+   ├── blurirng ( with/without padding )
+   ├── contrast linear Transformation
+   ├── convolution_image
+   ├── dilation
+   ├── edge map of image
+   ├── erosion
+   ├── histogram
+   ├── motion history images
+   ├── opening and closing morphological operation
+   ├── resize Image
+   ├── salt And Pepper noise
+   ├── image smoothening and sharpening
+   ├── flags implementation
+   ├── some VideoProcessing programs
+   ├── motion history images
+   ├── some other programs
+```
